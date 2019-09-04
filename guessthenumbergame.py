@@ -1,4 +1,4 @@
-#This is a guess teh number game.
+#This is a guess the number game.
 
 import random
 
